@@ -30,6 +30,8 @@ namespace GameSaleProjectDemo
 
             CampaignManager campaignManager = new CampaignManager();
             campaignManager.Add(campaign1);
+
+            Console.WriteLine();
         }
     }
 }
